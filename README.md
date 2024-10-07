@@ -1,6 +1,7 @@
 # demo_repositrory
+<br>
 This is my first repo.
 <be>
-First change in Repo.
+The first change in Repo.
 <be>
-Author : Shashvat.
+Author: Shashvat.
